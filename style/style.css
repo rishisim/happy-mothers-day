@@ -122,7 +122,7 @@ body {
   height: auto;
 }
 
-.six .crown {
+.six .hat {
   position: absolute;
   width: 80px;
   top: -35px;
@@ -234,25 +234,25 @@ body {
 
 /* Media Queries */
 @media screen and (max-height: 1000px) {
-  .six .crown {
+  .six .hat {
     left: 40%;
   }
 }
 
 @media screen and (max-height: 800px) {
-  .six .crown {
+  .six .hat {
     left: 37%;
   }
 }
 
 @media screen and (max-height: 700px) {
-  .six .crown {
+  .six .hat {
     left: 32%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
-  .six .crown {
+  .six .hat {
     left: 32%;
   }
 }
@@ -279,7 +279,7 @@ body {
     font-size: 10rem;
   }
 
-  .six .crown {
+  .six .hat {
     width: 50px;
     top: -20px;
   }
