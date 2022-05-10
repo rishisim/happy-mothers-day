@@ -1,5 +1,5 @@
 {
-  "name": "happy-birthday",
+  "name": "happy-mother's-day",
   "version": "1.0.0",
   "description": "An app that let's you say happy birthday to your friend in a nerdy way.",
   "main": "index.js",
@@ -20,7 +20,7 @@
   },
   "keywords": [
     "Happy",
-    "Birthday"
+    "Mother's Day"
   ],
   "author": "Afiur Rahman Fahim",
   "license": "MIT",
